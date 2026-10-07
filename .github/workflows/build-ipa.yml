@@ -1,5 +1,5 @@
 name: Build spoti.pw IPA
-    on:
+on:
   workflow_dispatch:
     inputs:
       ipa_url:
