@@ -1,6 +1,5 @@
-name: Build IPA from your own Spotify IPA
-
-on:
+name: Build spoti.pw IPA
+    on:
   workflow_dispatch:
     inputs:
       ipa_url:
